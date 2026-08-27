@@ -6,5 +6,5 @@ import react from "@vitejs/plugin-react";
 // com en un domini propi, sense haver de tocar res més.
 export default defineConfig({
   plugins: [react()],
-  base: "./",
+  base: "/Menester-DICC/",
 });
