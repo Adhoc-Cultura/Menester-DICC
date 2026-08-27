@@ -4,6 +4,6 @@ import MENESTER from "./MENESTER.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <MENESTER />
+    <MENESTER-DICC />
   </React.StrictMode>
 );
