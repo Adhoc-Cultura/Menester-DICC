@@ -1,9 +1,10 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
-// base: './' fa que els assets es carreguin amb rutes relatives,
-// així funciona tant en https://usuari.github.io/hip-cultura/
-// com en un domini propi, sense haver de tocar res més.
+// base: ha de coincidir amb el nom del repositori de GitHub Pages.
+// El repositori és "Menester-DICC", així que la URL és
+// https://adhoc-cultura.github.io/Menester-DICC/
+// Si algun dia canvies el nom del repositori, actualitza aquesta línia.
 export default defineConfig({
   plugins: [react()],
   base: "/Menester-DICC/",
