@@ -1,0 +1,10 @@
+Posa aquí els 5 PDF de les eines, amb aquests noms EXACTES:
+
+  Menester-adhoc-cultura-obertura.pdf           (OBRIR)
+  Menester-adhoc-cultura-mapa-agents.pdf        (CONNECTAR)
+  Menester-adhoc-cultura-disseny-cultural-1.pdf (COCREAR)
+  Menester-adhoc-cultura-disseny-cultural-3.pdf (EXPERIMENTAR)
+  Menester-adhoc-cultura-canvas.pdf             (ARRELAR)
+
+Aquesta carpeta (eines/) NO es toca en compilar, així que els PDF
+es queden aquí encara que actualitzem l'aplicació.
